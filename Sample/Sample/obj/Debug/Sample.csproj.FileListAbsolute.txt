@@ -1,0 +1,9 @@
+D:\Development\Playground\Sample\Sample\bin\Debug\Sample.dll
+D:\Development\Playground\Sample\Sample\bin\Debug\Sample.pdb
+D:\Development\Playground\Sample\Sample\bin\Debug\nunit.framework.dll
+D:\Development\Playground\Sample\Sample\bin\Debug\nunit.framework.pdb
+D:\Development\Playground\Sample\Sample\bin\Debug\nunit.framework.xml
+D:\Development\Playground\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+D:\Development\Playground\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+D:\Development\Playground\Sample\Sample\obj\Debug\Sample.dll
+D:\Development\Playground\Sample\Sample\obj\Debug\Sample.pdb
