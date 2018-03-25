@@ -1,0 +1,9 @@
+D:\Development\Playground\TDD-Devlopment\Sample\Sample\bin\Debug\Sample.dll
+D:\Development\Playground\TDD-Devlopment\Sample\Sample\bin\Debug\Sample.pdb
+D:\Development\Playground\TDD-Devlopment\Sample\Sample\bin\Debug\nunit.framework.dll
+D:\Development\Playground\TDD-Devlopment\Sample\Sample\bin\Debug\nunit.framework.pdb
+D:\Development\Playground\TDD-Devlopment\Sample\Sample\bin\Debug\nunit.framework.xml
+D:\Development\Playground\TDD-Devlopment\Sample\Sample\obj\Debug\Kata.csproj.CoreCompileInputs.cache
+D:\Development\Playground\TDD-Devlopment\Sample\Sample\obj\Debug\Sample.dll
+D:\Development\Playground\TDD-Devlopment\Sample\Sample\obj\Debug\Sample.pdb
+D:\Development\Playground\TDD-Devlopment\Sample\Sample\obj\Debug\Kata.csprojResolveAssemblyReference.cache

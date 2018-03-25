@@ -1,0 +1,9 @@
+D:\Development\Playground\TDD-Devlopment\Sample\Linq\bin\Debug\Linq.dll
+D:\Development\Playground\TDD-Devlopment\Sample\Linq\bin\Debug\Linq.pdb
+D:\Development\Playground\TDD-Devlopment\Sample\Linq\bin\Debug\nunit.framework.dll
+D:\Development\Playground\TDD-Devlopment\Sample\Linq\bin\Debug\nunit.framework.pdb
+D:\Development\Playground\TDD-Devlopment\Sample\Linq\bin\Debug\nunit.framework.xml
+D:\Development\Playground\TDD-Devlopment\Sample\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+D:\Development\Playground\TDD-Devlopment\Sample\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+D:\Development\Playground\TDD-Devlopment\Sample\Linq\obj\Debug\Linq.dll
+D:\Development\Playground\TDD-Devlopment\Sample\Linq\obj\Debug\Linq.pdb
